@@ -2,6 +2,11 @@
 
 [![GitHub](https://img.shields.io/github/license/solstice23/osu-stats-signature?color=blue&style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/solstice23/osu-stats-signature?color=ff69b4&style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/solstice23/osu-stats-signature?style=for-the-badge)](https://github.com/solstice23/osu-stats-signature/commits/master)
 
+
+> [!CAUTION]
+> The project has hit the Vercel rate limit and was paused by Vercel. It's recommended to fork this repo and deploy your own instance on Vercel for better uptime. I plan to migrate and host it to Cloudflare Workers.
+
+
 ## Languages
 
 - [English](#english)
