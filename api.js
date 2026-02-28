@@ -32,7 +32,7 @@ export const getUser = async (username, playmode = 'std', includeTopPlays = fals
 			}
 		}
 		return {
-			error: `Unknown Error`
+			error: `Unknown Error: ${error.message}`
 		}
 	}
 	
